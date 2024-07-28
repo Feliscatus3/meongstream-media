@@ -95,15 +95,13 @@ var stories = new Zuck('stories', {
     localStorage: true,
     stories: [
         Zuck.buildTimelineItem(
-            "ramon",
-            "https://raw.githubusercontent.com/ramon82/assets/master/zuck.js/users/1.jpg", // foto profil user 1
+            "meong",
+            "https://raw.githubusercontent.com/Feliscatus3/meongstream-media/logo/1.png", // foto profil user 1
             "Meong", // nama user 1
             "",
             timestamp(),
             [
-                ["ramon-1", "photo", 3, "https://raw.githubusercontent.com/ramon82/assets/master/zuck.js/stories/1.jpg", "https://raw.githubusercontent.com/ramon82/assets/master/zuck.js/stories/1.jpg", '', false, false, timestamp()], // postingan story user ke-1
-                ["ramon-2", "video", 0, "https://raw.githubusercontent.com/ramon82/assets/master/zuck.js/stories/2.mp4", "https://raw.githubusercontent.com/ramon82/assets/master/zuck.js/stories/2.jpg", '', false, false, timestamp()], // postingan story user ke-2
-                ["ramon-3", "photo", 3, "https://raw.githubusercontent.com/ramon82/assets/master/zuck.js/stories/3.png", "https://raw.githubusercontent.com/ramon82/assets/master/zuck.js/stories/3.png", 'https://s.id/240mn', 'Visit my Portfolio', false, timestamp()] // postingan story user ke-3
+                ["meong-1", "photo", 3, "https://raw.githubusercontent.com/Feliscatus3/meongstream-media/meory/meong/meong app.png", "https://raw.githubusercontent.com/Feliscatus3/meongstream-media/meory/meong/meong app.png", 'https://www.tiktok.com/@meong.stream', 'See More', false, timestamp()] // postingan story user ke-3
             ]
         ),
         
